@@ -11,3 +11,6 @@ There are two type of smoke animation
 Realistic uses radial gradation to have smoky dispersion look. However this color gradation effect was very slow.
 So, I introduced animated smoke, which is just smoke without color gradation.
 
+
+## Explosion
+Simple explosion effect with Java Swing
